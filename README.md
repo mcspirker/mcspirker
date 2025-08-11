@@ -1,4 +1,4 @@
-<h1>This is a wip :P</h1>
+<h3 align="center">This is a wip :P</h3>
 
 <!--
 **mcspirker/mcspirker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
