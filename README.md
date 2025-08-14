@@ -1,6 +1,6 @@
 <h1 align="center">```This is a wip :P```</h1>
 <h3 align="center"><strong>Basic Info</strong></h3>
-<p align="center">Names ➢ Riker, Tiberius, Convoy, Tara</p>
+<p align="center">Names ➢ Riker, Tiberius, Convoy, Tara (use sparingly)</p>
 <p align="center">Age & Pronouns & Sexuality ➢ 18+ (not specific for privacy reasons) She/He/They/Xey (no preference!!) Pansexual, Poly</p>
 <p align="center">Natio/Lang ➢ American / Speaks English, can read Russian, wants to learn Japanese and Chinese!</p>
 <p align="center">Religion ➢ Agnostic/Atheist</p>
