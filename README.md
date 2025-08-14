@@ -30,7 +30,6 @@
       <p>Main fandoms I'm in are Star Trek, Transformers, Blue Archive, Star Wars, and Hazbin Hotel</p></td>
     </tr>
   </TABLE>
-<p align="center"><img src="https://github.com/user-attachments/assets/7b1cd04a-049a-4561-a231-8e4046f8bcfd"></p>
 <!--Section 4-->
  <h3 align="center"><strong>Extra/BYI!</strong></h3>
   <TABLE BORDER>
