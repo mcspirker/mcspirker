@@ -45,16 +45,16 @@
 <p align="center"><img alt="Be Kind to your Computer" src="https://github.com/user-attachments/assets/68fdf7cf-ceb8-4667-82b3-731cd00b2972">
                   <img width="150" height="20" alt="Install uBlock Origin" src="https://github.com/user-attachments/assets/53bf3edf-ea6c-44ed-9c35-59ae5a8fa269">
                   <img width="150" height="20" alt="X Button" src="https://github.com/user-attachments/assets/9697d562-c7dd-465d-90e9-d897dbeda0da">
-                  <img width="150" height="20" alt="Go Digital" src="https://github.com/user-attachments/assets/240faaa8-8759-42f3-8410-2771933f0d54"></p>
-<p align="center"><img width="150" height="20" alt="Science Fiction Reader" src="https://github.com/user-attachments/assets/6bc367d9-40a5-4d52-83e2-d85172c10b0b">
+                  <img width="150" height="20" alt="Go Digital" src="https://github.com/user-attachments/assets/240faaa8-8759-42f3-8410-2771933f0d54"><br>
+<img width="150" height="20" alt="Science Fiction Reader" src="https://github.com/user-attachments/assets/6bc367d9-40a5-4d52-83e2-d85172c10b0b">
                   <img width="150" height="20" alt="Anime Freak" src="https://github.com/user-attachments/assets/23790819-749d-40e2-8124-e27c445a0318">
                   <img width="150" height="20" alt="Cyber Criminal" src="https://github.com/user-attachments/assets/f20e7b11-a2d9-4afe-9cc4-44cde5a22783">
-                  <img alt="Cat Lover" src="https://github.com/user-attachments/assets/ae95e522-ba37-4305-8536-78e591685db2"></p>
-<p align="center"><img width="150" height="20" alt="Decepticon" src="https://github.com/user-attachments/assets/630b3b5d-9d6f-4651-a664-a822d0fa78fe">
+                  <img alt="Cat Lover" src="https://github.com/user-attachments/assets/ae95e522-ba37-4305-8536-78e591685db2"><br>
+<img width="150" height="20" alt="Decepticon" src="https://github.com/user-attachments/assets/630b3b5d-9d6f-4651-a664-a822d0fa78fe">
                   <img width="150" height="20"  alt="Lightsaber" src="https://github.com/user-attachments/assets/87639139-1ee6-4f7a-869f-eb750498da84">
                   <img alt="Star Trek" src="https://github.com/user-attachments/assets/5f23cc0b-d670-4af0-8cdf-1b7fb1cb8dae">
-                  <img width="150" height="20"  alt="Heavy Metal" src="https://github.com/user-attachments/assets/11f13402-8abb-4f58-9fdf-d46081d7dd6b"></p>
-<p align="center"><img width="150" height="20"  alt="Anti-harassment" src="https://github.com/user-attachments/assets/cc31f8b6-c185-44ac-bc6f-87dcc51ddbd6">
+                  <img width="150" height="20"  alt="Heavy Metal" src="https://github.com/user-attachments/assets/11f13402-8abb-4f58-9fdf-d46081d7dd6b"><br>
+<img width="150" height="20"  alt="Anti-harassment" src="https://github.com/user-attachments/assets/cc31f8b6-c185-44ac-bc6f-87dcc51ddbd6">
                   <img width="150" height="20"  alt="DD:DNE" src="https://github.com/user-attachments/assets/ef4cf500-b167-4c2e-b103-5a82d2596950">
                   <img width="150" height="20"  alt="Chronic Proshipper" src="https://github.com/user-attachments/assets/656817aa-43fd-4c55-bb8c-d0ac2525a518">
                   <img width="150" height="20"  alt="Censorship Bad" src="https://github.com/user-attachments/assets/cca575a5-4db1-42e5-805b-f224fdb9b0a3"></p>
