@@ -1,4 +1,4 @@
-<h1 align="center">This is a wip</h1>
+<p align="center"><img src="https://github.com/user-attachments/assets/c7be18a1-9d8f-42d6-a0a9-74a65e615420"></p>
 <!--Section 1-->
 <h3 align="center"><strong>Basic Info</strong></h3>
 <p align="center">Names ➢ Riker, Tiberius, Convoy, Tara (use sparingly)</p>
