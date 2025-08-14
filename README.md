@@ -8,7 +8,7 @@
 <p align="center">Academic ➢ STEM Major!! I love comp sci, astronomy, astrophyisics, basically any kind of science, and mathematics.</p>
 <hr>
 <h3 align="center"><strong>Links</strong></h3>
-<p align="center">Patreon (has most info, thought I'm a lot more serious on there) ➢ <a href="https://www.patreon.com/c/mcspirk/about" rel="nofollow">Here</a></p>
+<p align="center">Patreon (has most info, though I'm a lot more serious on there) ➢ <a href="https://www.patreon.com/c/mcspirk/about" rel="nofollow">Here</a></p>
 <p align="center">Strawpage (blinkies!!) ➢ WIP</p>
 <p align="center">Tumblr ➢ Will link soon</p>
 <p align="center">Pronouns page ➢ WIP</p>
