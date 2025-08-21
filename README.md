@@ -3,7 +3,7 @@
   <h3 align="center"><strong>Basic Info</strong></h3>
 <!--Info 1-->
     <p align="center">Names ➢ Riker, Data</p>
-    <p align="center">Age & Pronouns & Sexuality ➢ 18+ (not specific for privacy reasons) He/She/They/Xey (no preference!!) Pansexual, Poly, Para</p><!--3 P's XD-->
+    <p align="center">Age & Pronouns & Sexuality ➢ 18+ (nebulous for privacy reasons) He/She/They/Xey (no preference!!) Pansexual, Poly, Para</p><!--3 P's XD-->
     <p align="center">National/Lang ➢ American / Speaks English, can read Russian, wants to learn Japanese and Chinese!</p>
     <p align="center">Religion ➢ Agnostic/Atheist</p>
     <p align="center">Political ➢ Leftist (equality + individualism is my dream)</p>
@@ -27,7 +27,7 @@
       <td><p>I love coding, technology, writing, reading, exploring nature, and music!</p>
       <p>My favorite music is metal, disco, old pop, electronic, synthwave (if you give me a song with any kind of synth in it, I'll probably like it. Recs encouraged!), j-pop, and rock.</p>
       <p>Some games I play are Pony Town (obvs), Blue Archive (only on mobile, get that anti-cheat off my computer), and Star Trek online.</p>
-      <p>Main fandoms I'm in are Star Trek, Transformers, Blue Archive, Star Wars, and Hazbin Hotel</p></td>
+      <p>Main fandoms I'm in are Star Trek, Transformers, Blue Archive, Star Wars, and Hazbin Hotel (nominal, since there's not much canon content)</p></td>
     </tr>
   </TABLE>
 <!--Section 4-->
@@ -37,9 +37,9 @@
       <td><p>I'm anticensorship & antiharassment. I'm pro-science, pro-ship, and pro-privacy. (Ik these sound silly but it's just my way of saying most of my view points are based on empirical evidence & I think        everyone deserves privacy, esp on the internet.)</p>
       <p>I like most ships. You can probably convince me to ship anything atp 😸</p>
       <p>I don't like drama that much and I probably won't say anything about it unless I'm directly involved. Gossip just isn't my thing.</p>
-      <p>I have really bad dissociative/autobiographical amnesia so beware of that. I often forget things that are important, so please be patient with me and don't take it as an insult. If I ask about something, please just give me a memory refresher!</p>
-      <p>I also might sometimes act differently than I usually would since I change personality at whim without realizing.</p>
-      <p>I like roleplaying, AUs, fanfiction, fanart, (though I am horrible at drawing), and all the classic fandom-y things! Fandoms are built for fun! Keep weirdos in them!</p>
+      <p>I have really bad dissociative amnesia so beware of that. I often forget things that are important, so please be patient with me and don't take it as an insult. If I ask about something, please just give me a memory refresher!</p>
+      <p>I also might sometimes act differently than I usually would since my personality changes at whim without my realization.</p>
+      <p>I like roleplaying, AUs, fanfiction, fanart, (though I am terrible at drawing), and all the classic fandom-y things! Fandoms are built for fun! Keep weirdos in them!</p>
       <p>Sometimes I can be a little awkward/quiet, so I apologize in advance. I might take a minute to warm up because I feel super awkward/don't know what to say. All I take to warm up is some kindness and            patience.</p></td>
     </tr>
   </TABLE>
