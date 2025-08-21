@@ -2,9 +2,9 @@
 <!--Section 1-->
   <h3 align="center"><strong>Basic Info</strong></h3>
 <!--Info 1-->
-    <p align="center">Names ➢ Riker, Tiberius, Convoy, Tara (use sparingly)</p>
-    <p align="center">Age & Pronouns & Sexuality ➢ 18+ (not specific for privacy reasons) She/He/They/Xey (no preference!!) Pansexual, Poly, Para</p><!--3 P's XD-->
-    <p align="center">Natio/Lang ➢ American / Speaks English, can read Russian, wants to learn Japanese and Chinese!</p>
+    <p align="center">Names ➢ Riker, Data</p>
+    <p align="center">Age & Pronouns & Sexuality ➢ 18+ (not specific for privacy reasons) He/She/They/Xey (no preference!!) Pansexual, Poly, Para</p><!--3 P's XD-->
+    <p align="center">National/Lang ➢ American / Speaks English, can read Russian, wants to learn Japanese and Chinese!</p>
     <p align="center">Religion ➢ Agnostic/Atheist</p>
     <p align="center">Political ➢ Leftist (equality + individualism is my dream)</p>
     <p align="center">Academic ➢ STEM Major!! I love comp sci, astronomy, astrophyisics, basically any kind of science, and mathematics.</p>
