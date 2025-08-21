@@ -60,6 +60,7 @@
                   <img width="150" height="20"  alt="DD:DNE" src="https://github.com/user-attachments/assets/ef4cf500-b167-4c2e-b103-5a82d2596950">
                   <img width="150" height="20"  alt="Chronic Proshipper" src="https://github.com/user-attachments/assets/656817aa-43fd-4c55-bb8c-d0ac2525a518">
                   <img width="150" height="20"  alt="Censorship Bad" src="https://github.com/user-attachments/assets/cca575a5-4db1-42e5-805b-f224fdb9b0a3"></p>
+     <p align="center"><em>Qapla'!</em></p>
 
 <!-- copy paste text
 
