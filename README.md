@@ -25,7 +25,7 @@
    <TABLE BORDER>
     <tr>
       <td><p>I love coding, technology, writing, reading, exploring nature, and music!</p>
-      <p>My favorite music is metal, disco, old pop, electronic, synthwave (if you give me a song with any kind of synth in it, I'll probably like it. Recs encouraged!), j-pop, and rock.</p>
+      <p>My favorite music is metal, disco, old pop, electronic, synthwave (if you give me a song with any kind of synth in it, I'll probably like it. Recs encouraged!), ambient, j-pop, and rock.</p>
       <p>Some games I play are Pony Town (obvs), Blue Archive (only on mobile, get that anti-cheat off my computer), and Star Trek online.</p>
       <p>Main fandoms I'm in are Star Trek, Transformers, Blue Archive, Star Wars, and Hazbin Hotel (nominal, since there's not much canon content)</p></td>
     </tr>
