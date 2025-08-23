@@ -12,7 +12,7 @@
 <!--Section 2-->
  <h3 align="center"><strong>Links</strong></h3>
    <p align="center"></a> Patreon (has most info, although I'm a lot more serious on there) ➢&nbsp;&nbsp;<a href="https://www.patreon.com/c/mcspirk/about"><img width="20" height="20" alt="Patreon Logo" src="https://github.com/user-attachments/assets/7773faf0-3d12-40fc-83c9-ee49f4cb4103"></p>
-   <p align="center">Strawpage (blinkies!!) ➢ WIP&nbsp;&nbsp;<img width="20" height="20" alt="Strawpage Logo" src="https://github.com/user-attachments/assets/725c938b-662c-4a5c-b26f-ce02238f7315"></p>
+   <p align="center">StrawPage (blinkies!!) ➢ WIP&nbsp;&nbsp;<img width="20" height="20" alt="Strawpage Logo" src="https://github.com/user-attachments/assets/725c938b-662c-4a5c-b26f-ce02238f7315"></p>
    <p align="center">Tumblr ➢&nbsp;&nbsp;<a href="https://www.tumblr.com/bluefrenzy"><img width="20" height="20" alt="Tumblr Logo" src=https://github.com/user-attachments/assets/9f3d7a31-b889-4336-a232-cf9bffcf8d46></p>
    <p align="center">Pronouns page ➢ WIP&nbsp;&nbsp;<img width="20" height="20" alt="Pronouns Page Logo" src="https://github.com/user-attachments/assets/438be7b8-b96b-463b-a98d-dba60fc565d6"></p>
    <p align="center">Pinterest ➢&nbsp;&nbsp;<a href="https://www.pinterest.com/oblique_asymptote/_saved/"><img width="20" height="20" alt="Pinterest Logo" src="https://github.com/user-attachments/assets/3e57b8ce-feca-4abd-ac18-79c1b8f9157d"></p>
