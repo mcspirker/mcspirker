@@ -16,6 +16,8 @@
    <p align="center">Tumblr ➢&nbsp;&nbsp;<a href="https://www.tumblr.com/bluefrenzy"><img width="20" height="20" alt="Tumblr Logo" src=https://github.com/user-attachments/assets/9f3d7a31-b889-4336-a232-cf9bffcf8d46></p>
    <p align="center">Pronouns page ➢ WIP&nbsp;&nbsp;<img width="20" height="20" alt="Pronouns Page Logo" src="https://github.com/user-attachments/assets/438be7b8-b96b-463b-a98d-dba60fc565d6"></p>
    <p align="center">Pinterest ➢&nbsp;&nbsp;<a href="https://www.pinterest.com/oblique_asymptote/_saved/"><img width="20" height="20" alt="Pinterest Logo" src="https://github.com/user-attachments/assets/3e57b8ce-feca-4abd-ac18-79c1b8f9157d"></p>
+   <p align="center">Spotify ➢&nbsp;&nbsp;<a href="https://open.spotify.com/user/31l5e4puhwchdhd4yfww4z547hei?si=21050cb9efdc488a"><img width="20" height="20" alt="Spotify Logo" src="https://github.com/user-attachments/assets/007c23ef-aa83-4bf0-a70a-e20926b2a78d"></p>
+
    <p align="center">Steam ➢&nbsp;&nbsp;<a href="https://steamcommunity.com/id/tiberiusriker/"><img width="20" height="20" alt="Steam Logo" src="https://github.com/user-attachments/assets/a607cf24-ff57-42d8-87a6-69c987b86d66"></p>
    <p align="center"><img width="20" height="20" alt="Discord Galactic Chrome Logo" src="https://github.com/user-attachments/assets/c3c918cf-2ff1-4743-8708-2b6f07ca6733">&nbsp;&nbsp;Reach me on Discord @ <strong>taranotapro</strong> !</p>
    <p align="center"><em>I follow back on socials</em></p></td>
