@@ -37,12 +37,13 @@
   <TABLE BORDER>
     <tr>
       <td><p>I'm anticensorship & antiharassment. I'm pro-science, pro-ship, and pro-privacy. (Ik these sound silly but it's just my way of saying most of my view points are based on empirical evidence & I think        everyone deserves privacy, esp on the internet.)</p>
+      <p>I like roleplaying, AUs, fanfiction, fanart, (though I am terrible at drawing), and all the classic fandom-y things! Fandoms are built for fun! Keep weirdos in them!</p>
       <p>I like most ships. You can probably convince me to ship anything atp 😸</p>
       <p>I don't like drama that much and I probably won't say anything about it unless I'm directly involved. Gossip just isn't my thing.</p>
-      <p>I have really bad dissociative amnesia so beware of that. I often forget things that are important, so please be patient with me and don't take it as an insult. If I ask about something, please just give me a memory refresher!</p>
-      <p>I also might sometimes act differently than I usually would since my personality changes at whim without my realization.</p>
-      <p>I like roleplaying, AUs, fanfiction, fanart, (though I am terrible at drawing), and all the classic fandom-y things! Fandoms are built for fun! Keep weirdos in them!</p>
-      <p>Sometimes I can be a little awkward/quiet, so I apologize in advance. I might take a minute to warm up because I feel super awkward/don't know what to say. All I take to warm up is some kindness and            patience.</p></td>
+      <p>I have DPDR, OSDD, BPD, severe anxiety, and short-term memory loss, so please be aware of that.</p>
+      <p>My personality and/or emotional state is subject to abrupt change. I ask that you please be patient and understanding.</p>
+      <p>Other than that, I have no DNI list! Please check out my StrawPage if you haven't already!</p>
+      </td>
     </tr>
   </TABLE>
 <p align="center"><img alt="Star Divider" src="https://github.com/user-attachments/assets/56762eef-08c0-48a8-9ce0-28167c0665bc"></p>
