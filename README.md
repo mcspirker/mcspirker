@@ -11,7 +11,7 @@
     <p align="center"><img alt="Green Arrow Divider" src="https://github.com/user-attachments/assets/7b1cd04a-049a-4561-a231-8e4046f8bcfd"></p>
 <!--Section 2-->
  <h3 align="center"><strong>Links</strong></h3>
-   <p align="center"></a> Patreon (slightly outdated) ➢&nbsp;&nbsp;<a href="https://www.patreon.com/c/mcspirk/about"><img width="20" height="20" alt="Patreon Logo" src="https://github.com/user-attachments/assets/7773faf0-3d12-40fc-83c9-ee49f4cb4103"></p>
+   <p align="center"></a> Patreon ➢&nbsp;&nbsp;<a href="https://www.patreon.com/c/mcspirk/about"><img width="20" height="20" alt="Patreon Logo" src="https://github.com/user-attachments/assets/7773faf0-3d12-40fc-83c9-ee49f4cb4103"></p>
    <p align="center">StrawPage ➢&nbsp;&nbsp;<a href="https://tiberiusriker.straw.page/"><img width="20" height="20" alt="Strawpage Logo" src="https://github.com/user-attachments/assets/725c938b-662c-4a5c-b26f-ce02238f7315"></p>
    <p align="center">Tumblr ➢&nbsp;&nbsp;<a href="https://www.tumblr.com/bluefrenzy"><img width="20" height="20" alt="Tumblr Logo" src=https://github.com/user-attachments/assets/9f3d7a31-b889-4336-a232-cf9bffcf8d46></p>
    <p align="center">Pronouns page ➢ WIP&nbsp;&nbsp;<img width="20" height="20" alt="Pronouns Page Logo" src="https://github.com/user-attachments/assets/438be7b8-b96b-463b-a98d-dba60fc565d6"></p>
