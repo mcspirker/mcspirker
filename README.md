@@ -4,9 +4,9 @@
 <!--Info 1-->
     <p align="center">Name ➢ Riker <br><em>Other names: Geordi, Reg, or Wesley/Wes</em></p>
     <p align="center">Age/Pronouns/Sexuality/Gender ➢ 18+ (nebulous for privacy reasons) He/She/They/Xey (no preference) Pansexual, Poly, Para, Genderfluid</p>
-    <p align="center">National/Lang ➢ American | Speaks English, can read Russian, wants to learn Japanese and Chinese</p>
+    <p align="center">National/Lang ➢ American | Speaks English, can read Russian, knows some Spanish</p>
     <p align="center">Religion ➢ Agnostic/Atheist</p>
-    <p align="center">Political ➢ Leftist (equality + individualism is my dream)</p>
+    <p align="center">Political ➢ Leftist (equality + individualism is my dream - Give me whatever the Federation has going on)</p>
     <p align="center">Academic ➢ STEM Major - I love comp sci, astronomy, astrophyisics, science, and mathematics.</p>
     <p align="center"><img alt="Green Arrow Divider" src="https://github.com/user-attachments/assets/7b1cd04a-049a-4561-a231-8e4046f8bcfd"></p>
 <!--Section 2-->
