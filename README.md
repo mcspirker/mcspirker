@@ -2,7 +2,7 @@
 <!--Section 1-->
   <h3 align="center"><strong>Basic Info</strong></h3>
 <!--Info 1-->
-    <p align="center">Name ➢ Riker</p>
+    <p align="center">Name ➢ Riker <em>*Other names: Geordi, Reg, or Wesley/Wes</em></p>
     <p align="center">Age/Pronouns/Sexuality/Gender ➢ 18+ (nebulous for privacy reasons) He/She/They/Xey (no preference) Pansexual, Poly, Para, Genderfluid</p>
     <p align="center">National/Lang ➢ American | Speaks English, can read Russian, wants to learn Japanese and Chinese</p>
     <p align="center">Religion ➢ Agnostic/Atheist</p>
