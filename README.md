@@ -2,17 +2,17 @@
 <!--Section 1-->
   <h3 align="center"><strong>Basic Info</strong></h3>
 <!--Info 1-->
-    <p align="center">Names ➢ Riker, Data</p>
-    <p align="center">Age & Pronouns & Sexuality ➢ 18+ (nebulous for privacy reasons) He/She/They/Xey (no preference!!) Pansexual, Poly, Para</p><!--3 P's XD-->
-    <p align="center">National/Lang ➢ American / Speaks English, can read Russian, wants to learn Japanese and Chinese!</p>
+    <p align="center">Name ➢ Riker</p>
+    <p align="center">Age/Pronouns/Sexuality/Gender ➢ 18+ (nebulous for privacy reasons) He/She/They/Xey (no preference) Pansexual, Poly, Para, Genderfluid</p>
+    <p align="center">National/Lang ➢ American | Speaks English, can read Russian, wants to learn Japanese and Chinese</p>
     <p align="center">Religion ➢ Agnostic/Atheist</p>
     <p align="center">Political ➢ Leftist (equality + individualism is my dream)</p>
-    <p align="center">Academic ➢ STEM Major!! I love comp sci, astronomy, astrophyisics, basically any kind of science, and mathematics.</p>
+    <p align="center">Academic ➢ STEM Major - I love comp sci, astronomy, astrophyisics, science, and mathematics.</p>
     <p align="center"><img alt="Green Arrow Divider" src="https://github.com/user-attachments/assets/7b1cd04a-049a-4561-a231-8e4046f8bcfd"></p>
 <!--Section 2-->
  <h3 align="center"><strong>Links</strong></h3>
    <p align="center"></a> Patreon (slightly outdated) ➢&nbsp;&nbsp;<a href="https://www.patreon.com/c/mcspirk/about"><img width="20" height="20" alt="Patreon Logo" src="https://github.com/user-attachments/assets/7773faf0-3d12-40fc-83c9-ee49f4cb4103"></p>
-   <p align="center">StrawPage (FAV!!) ➢&nbsp;&nbsp;<a href="https://tiberiusriker.straw.page/"><img width="20" height="20" alt="Strawpage Logo" src="https://github.com/user-attachments/assets/725c938b-662c-4a5c-b26f-ce02238f7315"></p>
+   <p align="center">StrawPage ➢&nbsp;&nbsp;<a href="https://tiberiusriker.straw.page/"><img width="20" height="20" alt="Strawpage Logo" src="https://github.com/user-attachments/assets/725c938b-662c-4a5c-b26f-ce02238f7315"></p>
    <p align="center">Tumblr ➢&nbsp;&nbsp;<a href="https://www.tumblr.com/bluefrenzy"><img width="20" height="20" alt="Tumblr Logo" src=https://github.com/user-attachments/assets/9f3d7a31-b889-4336-a232-cf9bffcf8d46></p>
    <p align="center">Pronouns page ➢ WIP&nbsp;&nbsp;<img width="20" height="20" alt="Pronouns Page Logo" src="https://github.com/user-attachments/assets/438be7b8-b96b-463b-a98d-dba60fc565d6"></p>
    <p align="center">Pinterest ➢&nbsp;&nbsp;<a href="https://www.pinterest.com/oblique_asymptote/_saved/"><img width="20" height="20" alt="Pinterest Logo" src="https://github.com/user-attachments/assets/3e57b8ce-feca-4abd-ac18-79c1b8f9157d"></p>
@@ -26,23 +26,23 @@
  <h3 align="center"><strong>Fandoms + Interests</strong></h3>
    <TABLE BORDER>
     <tr>
-      <td><p>I love coding, technology, writing, reading, exploring nature, and music!</p>
-      <p>My favorite music is metal, disco, old pop, electronic, synthwave (if you give me a song with any kind of synth in it, I'll probably like it. Recs encouraged!), ambient, j-pop, and rock.</p>
-      <p>Some games I play are Pony Town (obvs), Blue Archive (only on mobile, get that anti-cheat off my computer), and Star Trek online.</p>
-      <p>Main fandoms I'm in are Star Trek, Transformers, Blue Archive, Star Wars, and Hazbin Hotel (nominal, since there's not much canon content)</p></td>
+      <td><p>I love coding, technology, writing, reading, exploring nature, and music.</p>
+      <p>My favorite music is metal and disco. I also like old pop, electronic, synthwave, ambient, j-pop, and rock.</p>
+      <p>Some games I play are Pony Town (obvs), Blue Archive (only on mobile), and Star Trek online.</p>
+      <p>Main fandoms I'm in are Star Trek, Transformers, Star Wars, Blue Archive, and Hazbin Hotel (nominal, since there's not much canon content)</p></td>
     </tr>
   </TABLE>
 <!--Section 4-->
  <h3 align="center"><strong>Extra/BYI!</strong></h3>
   <TABLE BORDER>
     <tr>
-      <td><p>I'm anticensorship & antiharassment. I'm pro-science, pro-ship, and pro-privacy. (Ik these sound silly but it's just my way of saying most of my view points are based on empirical evidence & I think        everyone deserves privacy, esp on the internet.)</p>
-      <p>I like roleplaying, AUs, fanfiction, fanart, (though I am terrible at drawing), and all the classic fandom-y things! Fandoms are built for fun! Keep weirdos in them!</p>
-      <p>I like most ships. You can probably convince me to ship anything atp 😸</p>
+      <td><p>I'm anticensorship. (At least when it comes to fiction)</p>
+      <p>I like roleplaying, AUs, fanfiction, fanart, (though I am terrible at drawing), and all the classic fandom-y things</p>
+      <p>I'm a multishipper, pro(fessional)shiper, darkshipper, comshipper, whatever other ridiculous categories antis came up with 🤣 - I like most ships. If I see it, I ship it.</p>
       <p>I don't like drama that much and I probably won't say anything about it unless I'm directly involved. Gossip just isn't my thing.</p>
       <p>I have severe anxiety and memory issues, so please be aware of that.</p>
       <p>My personality and/or emotional state is subject to abrupt change. I ask that you please be patient and understanding.</p>
-      <p>Other than that, I have no DNI list! Please check out my StrawPage if you haven't already!</p>
+      <p>Other than that, I have no DNI list. Basically just love it or leave it. Please check out my StrawPage if you haven't already!</p>
       </td>
     </tr>
   </TABLE>
