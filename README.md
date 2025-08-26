@@ -40,7 +40,7 @@
       <p>I like roleplaying, AUs, fanfiction, fanart, (though I am terrible at drawing), and all the classic fandom-y things! Fandoms are built for fun! Keep weirdos in them!</p>
       <p>I like most ships. You can probably convince me to ship anything atp 😸</p>
       <p>I don't like drama that much and I probably won't say anything about it unless I'm directly involved. Gossip just isn't my thing.</p>
-      <p>I have DPDR, OSDD, BPD, severe anxiety, and short-term memory loss, so please be aware of that.</p>
+      <p>I have severe anxiety and memory issues, so please be aware of that.</p>
       <p>My personality and/or emotional state is subject to abrupt change. I ask that you please be patient and understanding.</p>
       <p>Other than that, I have no DNI list! Please check out my StrawPage if you haven't already!</p>
       </td>
