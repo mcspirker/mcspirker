@@ -2,7 +2,7 @@
 <!--Section 1-->
   <h3 align="center"><strong>Basic Info</strong></h3>
 <!--Info 1-->
-    <p align="center">Name ➢ Riker <em>*Other names: Geordi, Reg, or Wesley/Wes</em></p>
+    <p align="center">Name ➢ Riker <br><em>Other names: Geordi, Reg, or Wesley/Wes</em></p>
     <p align="center">Age/Pronouns/Sexuality/Gender ➢ 18+ (nebulous for privacy reasons) He/She/They/Xey (no preference) Pansexual, Poly, Para, Genderfluid</p>
     <p align="center">National/Lang ➢ American | Speaks English, can read Russian, wants to learn Japanese and Chinese</p>
     <p align="center">Religion ➢ Agnostic/Atheist</p>
@@ -63,8 +63,7 @@
                   <img width="150" height="20"  alt="DD:DNE" src="https://github.com/user-attachments/assets/ef4cf500-b167-4c2e-b103-5a82d2596950">
                   <img width="150" height="20"  alt="Chronic Proshipper" src="https://github.com/user-attachments/assets/656817aa-43fd-4c55-bb8c-d0ac2525a518">
                   <img width="150" height="20"  alt="Censorship Bad" src="https://github.com/user-attachments/assets/cca575a5-4db1-42e5-805b-f224fdb9b0a3"></p>
-     <p align="center"><em>Qapla'!</em></p>
-     <p align="center"><em>変われ！</em></p>
+     <p align="center"><em>Qapla'!</em><br><em>変われ！</em></p>
 
 <!-- copy paste text
 
