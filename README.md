@@ -38,7 +38,7 @@
     <tr>
       <td><p>I'm anticensorship. (At least when it comes to fiction)</p>
       <p>I like roleplaying, AUs, fanfiction, fanart, (though I am terrible at drawing), and all the classic fandom-y things</p>
-      <p>I'm a multishipper, pro(fessional)shiper, darkshipper, comshipper, whatever other ridiculous categories antis came up with 🤣 - I like most ships. If I see it, I ship it.</p>
+      <p>I'm a multishipper, pro(fessional)shiper, darkshipper, comshipper, whatever other ridiculous categories antis came up with - I like most ships. As long as the characters have some kind of hypothetical chemistry or canon-interaction, I ship it.</p>
       <p>I don't like drama that much and I probably won't say anything about it unless I'm directly involved. Gossip just isn't my thing.</p>
       <p>I have severe anxiety and memory issues, so please be aware of that.</p>
       <p>My personality and/or emotional state is subject to abrupt change. I ask that you please be patient and understanding.</p>
