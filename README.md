@@ -3,10 +3,10 @@
   <h3 align="center"><strong>Basic Info</strong></h3>
 <!--Info 1-->
     <p align="center">Name ➢ Riker <br><em>Other names: Geordi, Reg, or Wesley/Wes</em></p>
-    <p align="center">Age/Pronouns/Sexuality/Gender ➢ 18+ (nebulous for privacy reasons) He/She/They/Xey (no preference) Pansexual, Poly, Para, Genderfluid</p>
+    <p align="center">Age/Pronouns/Sexuality/Gender ➢ 18 He/She/They/Xey (no preference) Pansexual, Poly, Para, Genderfluid</p>
     <p align="center">National/Lang ➢ American | Speaks English, can read Russian, knows some Spanish</p>
     <p align="center">Religion ➢ Agnostic/Atheist</p>
-    <p align="center">Political ➢ Leftist (equality + individualism is my dream - Give me whatever the Federation has going on)</p>
+    <p align="center">Political ➢ Leftist (equality + individualism is my dream - Give me whatever the Federation has going on!)</p>
     <p align="center">Academic ➢ STEM Major - I love comp sci, astronomy, astrophyisics, science, and mathematics.</p>
     <p align="center"><img alt="Green Arrow Divider" src="https://github.com/user-attachments/assets/7b1cd04a-049a-4561-a231-8e4046f8bcfd"></p>
 <!--Section 2-->
@@ -17,7 +17,6 @@
    <p align="center">Pronouns page ➢ WIP&nbsp;&nbsp;<img width="20" height="20" alt="Pronouns Page Logo" src="https://github.com/user-attachments/assets/438be7b8-b96b-463b-a98d-dba60fc565d6"></p>
    <p align="center">Pinterest ➢&nbsp;&nbsp;<a href="https://www.pinterest.com/oblique_asymptote/_saved/"><img width="20" height="20" alt="Pinterest Logo" src="https://github.com/user-attachments/assets/3e57b8ce-feca-4abd-ac18-79c1b8f9157d"></p>
    <p align="center">Spotify ➢&nbsp;&nbsp;<a href="https://open.spotify.com/user/31l5e4puhwchdhd4yfww4z547hei?si=21050cb9efdc488a"><img width="20" height="20" alt="Spotify Logo" src="https://github.com/user-attachments/assets/007c23ef-aa83-4bf0-a70a-e20926b2a78d"></p>
-
    <p align="center">Steam ➢&nbsp;&nbsp;<a href="https://steamcommunity.com/id/tiberiusriker/"><img width="20" height="20" alt="Steam Logo" src="https://github.com/user-attachments/assets/a607cf24-ff57-42d8-87a6-69c987b86d66"></p>
    <p align="center"><img width="20" height="20" alt="Discord Galactic Chrome Logo" src="https://github.com/user-attachments/assets/c3c918cf-2ff1-4743-8708-2b6f07ca6733">&nbsp;&nbsp;Reach me on Discord @ <strong>taranotapro</strong> !</p>
    <p align="center"><em>I follow back on socials</em></p></td>
@@ -64,7 +63,7 @@
                   <img width="150" height="20"  alt="Chronic Proshipper" src="https://github.com/user-attachments/assets/656817aa-43fd-4c55-bb8c-d0ac2525a518">
                   <img width="150" height="20"  alt="Censorship Bad" src="https://github.com/user-attachments/assets/cca575a5-4db1-42e5-805b-f224fdb9b0a3"></p>
      <p align="center"><em>Qapla'!</em><br><em>変われ！</em><br>Peace and long life.<br>May the Force be with you.</p>
-
+<p align="center"><img width="150" height="20"  alt="" src="https://github.com/user-attachments/assets/a502b541-d991-4ed0-9b19-06ea9c37e098"></p>
 <!-- copy paste text
 
 <img alt="" src="
