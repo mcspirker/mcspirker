@@ -61,9 +61,13 @@
 <img width="150" height="20"  alt="Anti-harassment" src="https://github.com/user-attachments/assets/cc31f8b6-c185-44ac-bc6f-87dcc51ddbd6">
                   <img width="150" height="20"  alt="DD:DNE" src="https://github.com/user-attachments/assets/ef4cf500-b167-4c2e-b103-5a82d2596950">
                   <img width="150" height="20"  alt="Chronic Proshipper" src="https://github.com/user-attachments/assets/656817aa-43fd-4c55-bb8c-d0ac2525a518">
-                  <img width="150" height="20"  alt="Censorship Bad" src="https://github.com/user-attachments/assets/cca575a5-4db1-42e5-805b-f224fdb9b0a3"></p>
-     <p align="center"><em>Qapla'!</em><br><em>変われ！</em><br>Peace and long life.<br>May the Force be with you.</p>
-<p align="center"><img width="150" height="20"  alt="" src="https://github.com/user-attachments/assets/a502b541-d991-4ed0-9b19-06ea9c37e098"></p>
+                  <img width="150" height="20"  alt="Fuck Censorship" src="https://github.com/user-attachments/assets/cca575a5-4db1-42e5-805b-f224fdb9b0a3"><br>
+<img width="150" height="20"  alt="Coffee Love" src="https://github.com/user-attachments/assets/772f4314-31c1-4cc7-a74f-917595454731">
+                 <img width="150" height="20"  alt="IRL Hacker" src="https://github.com/user-attachments/assets/1d837f43-99f6-4ec0-93c3-cf5f3d007b31">
+                 <img width="150" height="20"  alt="Winter Love" src="https://github.com/user-attachments/assets/97ec6582-16a7-470a-b2fa-5d242bb8a66e">
+                 <img width="150" height="20"  alt="Winamp" src="https://github.com/user-attachments/assets/fe37d8d4-a933-47f7-9ab9-c0bd5997453b"></p>
+                 <p align="center"><em>Qapla'!</em><br><em>変われ！</em><br>Peace and long life.<br>May the Force be with you.</p>
+<p align="center"><img width="150" height="20"  alt="You Will Be Assimilated" src="https://github.com/user-attachments/assets/a502b541-d991-4ed0-9b19-06ea9c37e098"></p>
 <!-- copy paste text
 
 <img alt="" src="
