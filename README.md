@@ -3,10 +3,10 @@
   <h3 align="center"><strong>Basic Info</strong></h3>
 <!--Info 1-->
     <p align="center">Name ➢ Riker <br><em>Other names: Geordi, Reg, or Wesley/Wes</em></p>
-    <p align="center">Age/Pronouns/Sexuality/Gender ➢ 18 He/She/They/Xey (no preference) Pansexual, Poly, Para, Genderfluid</p>
+    <p align="center">Age/Pronouns/Sexuality/Gender ➢ 18 | He/She/They/Xey (no preference) Pansexual, Polyamory, Paraphile, Genderfluid</p>
     <p align="center">National/Lang ➢ American | Speaks English, can read Russian, knows some Spanish</p>
     <p align="center">Religion ➢ Agnostic/Atheist</p>
-    <p align="center">Political ➢ Leftist (equality + individualism is my dream - Give me whatever the Federation has going on!)</p>
+    <p align="center">Political ➢ Leftist (equality + individualism is my dream - I'd like to have whatever the Federation has going on)</p>
     <p align="center">Academic ➢ STEM Major - I love comp sci, astronomy, astrophyisics, science, and mathematics.</p>
     <p align="center"><img alt="Green Arrow Divider" src="https://github.com/user-attachments/assets/7b1cd04a-049a-4561-a231-8e4046f8bcfd"></p>
 <!--Section 2-->
@@ -46,8 +46,7 @@
       <p>I like roleplaying, AUs, fanfiction, fanart, (though I am terrible at drawing), and all the classic fandom-y things</p>
       <p>I'm a multishipper, pro(fessional)shiper, darkshipper, comshipper, whatever other ridiculous categories antis came up with - I like most ships. As long as the characters have some kind of hypothetical chemistry or canon-interaction, I ship it.</p>
       <p>I don't like drama that much and I probably won't say anything about it unless I'm directly involved. Gossip just isn't my thing.</p>
-      <p>I have severe anxiety and memory issues, so please be aware of that.</p>
-      <p>My personality and/or emotional state is subject to abrupt change. I ask that you please be patient and understanding.</p>
+      <p>I have (can have) episodes of severe anxiety and antagonism. I ask that you please be patient and understanding. I also have some mild memory issues.</p>
       <p>Other than that, I have no DNI list. Basically just love it or leave it. Please check out my StrawPage if you haven't already!</p>
       </td>
     </tr>
