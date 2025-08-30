@@ -12,16 +12,16 @@
 <!--Section 2-->
  <h3 align="center"><strong>Links</strong></h3>
    <p align="center"><a href="https://www.patreon.com/c/mcspirk/about"><img width="150" height="20"  alt="Patreon Blinkie" src="https://github.com/user-attachments/assets/76a9ff5c-9903-4727-8347-8e3fe9048f16">
-      <!--</a> Patreon ➢&nbsp;&nbsp;<img width="20" height="20" alt="Patreon Logo" src="https://github.com/user-attachments/assets/7773faf0-3d12-40fc-83c9-ee49f4cb4103"></p>-->
    <p align="center"><a href="https://tiberiusriker.straw.page/"><img width="150" height="20" alt="StrawPage Blinkie" src="https://github.com/user-attachments/assets/2a9f19d1-f0e9-46e9-8940-c555460f4977"></p>
-      <!--StrawPage ➢&nbsp;&nbsp;<img width="20" height="20" alt="Strawpage Logo" src="https://github.com/user-attachments/assets/725c938b-662c-4a5c-b26f-ce02238f7315">-->
    <p align="center"><a href="https://www.tumblr.com/bluefrenzy"><img width="150" height="20" alt="Tumblr Blinkie" src="https://github.com/user-attachments/assets/2584d818-8358-4af5-8d3d-f254588b42fd"></p>
-      <!--Tumblr ➢&nbsp;&nbsp;<a href="https://www.tumblr.com/bluefrenzy"><img width="20" height="20" alt="Tumblr Logo" src=https://github.com/user-attachments/assets/9f3d7a31-b889-4336-a232-cf9bffcf8d46>-->
    <p align="center"><img width="150" height="20"  alt="PronounsCC Blinkie" src="https://github.com/user-attachments/assets/13e47aed-9c9b-41c8-a74f-4a5bb67042a8"><br><em>WIP</em></p>
    <p align="center"><a href="https://www.pinterest.com/oblique_asymptote/_saved/"><img width="150" height="20"  alt="Pinterest Blinkie" src="https://github.com/user-attachments/assets/2befda75-f61d-4e62-bd5a-634d11fffe57"></p>
-   <p align="center"><a href="https://open.spotify.com/user/31l5e4puhwchdhd4yfww4z547hei?si=21050cb9efdc488a"><img width="150" height="20"  alt="Spotify Blinkie" src="https://github.com/user-attachments/assets/ee05a9c4-e22a-4cd0-85d5-5e6ba7f034a8"></p>
-   <p align="center"><a href="https://steamcommunity.com/id/tiberiusriker/"><img width="150" height="20"  alt="PronounsCC Blinkie" src="https://github.com/user-attachments/assets/bdcdf682-da99-4a81-8777-c0830f7e1ae4"></p>
-   <!--<p align="center">Pronouns page ➢ WIP&nbsp;&nbsp;<img width="20" height="20" alt="Pronouns Page Logo" src="https://github.com/user-attachments/assets/438be7b8-b96b-463b-a98d-dba60fc565d6"></p>
+   <p align="center"><a href="https://open.spotify.com/user/31l5e4puhwchdhd4yfww4z547hei?si=21050cb9efdc488a"><img width="150" height="20"  alt="Spotify Blinkie" src="https://github.com/user-attachments/assets/85542288-efe3-4a0f-b6d1-a90c20c1d080"></p>
+   <p align="center"><a href="https://steamcommunity.com/id/tiberiusriker/"><img width="150" height="20"  alt="PronounsCC Blinkie" src="https://github.com/user-attachments/assets/25b97251-b552-4d8c-b4cb-dc34ba991b42"></p>
+     <!--Tumblr ➢&nbsp;&nbsp;<a href="https://www.tumblr.com/bluefrenzy"><img width="20" height="20" alt="Tumblr Logo" src=https://github.com/user-attachments/assets/9f3d7a31-b889-4336-a232-cf9bffcf8d46>-->
+     <!--StrawPage ➢&nbsp;&nbsp;<img width="20" height="20" alt="Strawpage Logo" src="https://github.com/user-attachments/assets/725c938b-662c-4a5c-b26f-ce02238f7315">-->
+     <!--</a> Patreon ➢&nbsp;&nbsp;<img width="20" height="20" alt="Patreon Logo" src="https://github.com/user-attachments/assets/7773faf0-3d12-40fc-83c9-ee49f4cb4103"></p>-->
+     <!--<p align="center">Pronouns page ➢ WIP&nbsp;&nbsp;<img width="20" height="20" alt="Pronouns Page Logo" src="https://github.com/user-attachments/assets/438be7b8-b96b-463b-a98d-dba60fc565d6"></p>
    <p align="center">Pinterest ➢&nbsp;&nbsp;<a href="https://www.pinterest.com/oblique_asymptote/_saved/"><img width="20" height="20" alt="Pinterest Logo" src="https://github.com/user-attachments/assets/3e57b8ce-feca-4abd-ac18-79c1b8f9157d"></p>
    <p align="center">Spotify ➢&nbsp;&nbsp;<a href="https://open.spotify.com/user/31l5e4puhwchdhd4yfww4z547hei?si=21050cb9efdc488a"><img width="20" height="20" alt="Spotify Logo" src="https://github.com/user-attachments/assets/007c23ef-aa83-4bf0-a70a-e20926b2a78d"></p>
    <p align="center">Steam ➢&nbsp;&nbsp;<a href="https://steamcommunity.com/id/tiberiusriker/"><img width="20" height="20" alt="Steam Logo" src="https://github.com/user-attachments/assets/a607cf24-ff57-42d8-87a6-69c987b86d66"></p>-->
