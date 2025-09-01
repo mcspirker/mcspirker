@@ -77,7 +77,7 @@
                  <img width="150" height="20"  alt="IRL Hacker" src="https://github.com/user-attachments/assets/1d837f43-99f6-4ec0-93c3-cf5f3d007b31">
                  <img width="150" height="20"  alt="Winter Love" src="https://github.com/user-attachments/assets/97ec6582-16a7-470a-b2fa-5d242bb8a66e">
                  <img width="150" height="20"  alt="Winamp" src="https://github.com/user-attachments/assets/fe37d8d4-a933-47f7-9ab9-c0bd5997453b"></p>
-                 <p align="center"><em>Qapla'!</em></p>
+                 <p align="center"><em>Qapla'!</em><br><em>Рок-н-ролл!</em></p>
 <p align="center"><img width="150" height="20"  alt="You Will Be Assimilated" src="https://github.com/user-attachments/assets/a502b541-d991-4ed0-9b19-06ea9c37e098"></p>
 <!-- copy paste text
 
