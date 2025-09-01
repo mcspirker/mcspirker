@@ -2,7 +2,7 @@
 <!--Section 1-->
   <h3 align="center"><strong>𝐁𝐚𝐬𝐢𝐜 𝐈𝐧𝐟𝐨<br>────────────────────</strong></h3>
 <!--Info 1-->
-    <p align="center">Name ✦ Riker <br><em>Other names ✦ Geordi, Reg, or Wesley/Wes</em></p>
+    <p align="center">Name ✦ Riker <br><em>Other names ✦ Data, Geordi, Reg, or Wesley/Wes</em></p>
     <p align="center">Age ✦ 18
     <p align="center">Pronouns ✦ He/She/They/Xey (no preference)</p>
     <p align="center">Sexuality ✦ Pansexual, Polyamory, Paraphile</p>
