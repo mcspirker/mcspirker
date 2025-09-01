@@ -1,16 +1,20 @@
 <p align="center"><img alt="Under Construction Blinkie" src="https://github.com/user-attachments/assets/c7be18a1-9d8f-42d6-a0a9-74a65e615420"></p>
 <!--Section 1-->
-  <h3 align="center"><strong>Basic Info</strong></h3>
+  <h3 align="center"><strong>𝐁𝐚𝐬𝐢𝐜 𝐈𝐧𝐟𝐨<br>────────────────────</strong></h3>
 <!--Info 1-->
-    <p align="center">Name ➢ Riker <br><em>Other names: Geordi, Reg, or Wesley/Wes</em></p>
-    <p align="center">Age/Pronouns/Sexuality/Gender ➢ 18 | He/She/They/Xey (no preference) Pansexual, Polyamory, Paraphile, Genderfluid</p>
-    <p align="center">National/Lang ➢ American | Speaks English, can read Russian, knows some Spanish</p>
-    <p align="center">Religion ➢ Agnostic/Atheist</p>
-    <p align="center">Political ➢ Leftist (equality + individualism is my dream - I'd like to have whatever the Federation has going on)</p>
-    <p align="center">Academic ➢ STEM Major - I love comp sci, astronomy, astrophyisics, science, and mathematics.</p>
-    <p align="center"><img alt="Green Arrow Divider" src="https://github.com/user-attachments/assets/7b1cd04a-049a-4561-a231-8e4046f8bcfd"></p>
+    <p align="center">Name ✦ Riker <br><em>Other names ✦ Geordi, Reg, or Wesley/Wes</em></p>
+    <p align="center">Age ✦ 18
+    <p align="center">Pronouns ✦ He/She/They/Xey (no preference)</p>
+    <p align="center">Sexuality ✦ Pansexual, Polyamory, Paraphile</p>
+    <p align="center">Gender ✦ Genderfluid, Genderflux</p>
+    <p align="center">Nationality ✦ American</p>
+    <p align="center">Languages ✦ English, some Spanish, Russian (reading)</p>
+    <p align="center">Religion ✦ Agnostic/Atheist</p>
+    <p align="center">Political ✦ Leftist (or whateverthehell the Federation has going on)</p>
+    <p align="center">Academic ✦ STEM Major (very undecided). I love science and mathematics.</p>
+<p align="center"><img alt="Star Divider" src="https://github.com/user-attachments/assets/56762eef-08c0-48a8-9ce0-28167c0665bc"></p>
 <!--Section 2-->
- <h3 align="center"><strong>Links</strong></h3>
+ <h3 align="center"><strong>𝐋𝐢𝐧𝐤𝐬</strong></h3>
    <p align="center"><a href="https://www.patreon.com/c/mcspirk/about"><img width="150" height="20"  alt="Patreon Blinkie" src="https://github.com/user-attachments/assets/76a9ff5c-9903-4727-8347-8e3fe9048f16">
    <p align="center"><a href="https://tiberiusriker.straw.page/"><img width="150" height="20" alt="StrawPage Blinkie" src="https://github.com/user-attachments/assets/2a9f19d1-f0e9-46e9-8940-c555460f4977"></p>
    <p align="center"><a href="https://www.tumblr.com/bluefrenzy"><img width="150" height="20" alt="Tumblr Blinkie" src="https://github.com/user-attachments/assets/2584d818-8358-4af5-8d3d-f254588b42fd"></p>
@@ -25,29 +29,30 @@
    <p align="center">Pinterest ➢&nbsp;&nbsp;<a href="https://www.pinterest.com/oblique_asymptote/_saved/"><img width="20" height="20" alt="Pinterest Logo" src="https://github.com/user-attachments/assets/3e57b8ce-feca-4abd-ac18-79c1b8f9157d"></p>
    <p align="center">Spotify ➢&nbsp;&nbsp;<a href="https://open.spotify.com/user/31l5e4puhwchdhd4yfww4z547hei?si=21050cb9efdc488a"><img width="20" height="20" alt="Spotify Logo" src="https://github.com/user-attachments/assets/007c23ef-aa83-4bf0-a70a-e20926b2a78d"></p>
    <p align="center">Steam ➢&nbsp;&nbsp;<a href="https://steamcommunity.com/id/tiberiusriker/"><img width="20" height="20" alt="Steam Logo" src="https://github.com/user-attachments/assets/a607cf24-ff57-42d8-87a6-69c987b86d66"></p>-->
-   <p align="center"><img width="20" height="20" alt="Discord Galactic Chrome Logo" src="https://github.com/user-attachments/assets/c3c918cf-2ff1-4743-8708-2b6f07ca6733">&nbsp;&nbsp;Reach me on Discord @ <strong>taranotapro</strong> !</p>
+   <p align="center"><img width="20" height="20" alt="Discord Galactic Chrome Logo" src="https://github.com/user-attachments/assets/c3c918cf-2ff1-4743-8708-2b6f07ca6733">&nbsp;&nbsp;Reach me on Discord @<strong>taranotapro</strong></p>
    <p align="center"><em>I follow back on socials</em></p></td>
-<p align="center"><img alt="Green Arrow Divider" src="https://github.com/user-attachments/assets/7b1cd04a-049a-4561-a231-8e4046f8bcfd"></p>
+<p align="center"><img alt="Star Divider" src="https://github.com/user-attachments/assets/56762eef-08c0-48a8-9ce0-28167c0665bc"></p>
+<!--<p align="center"><img alt="Green Arrow Divider" src="https://github.com/user-attachments/assets/7b1cd04a-049a-4561-a231-8e4046f8bcfd"></p>-->
 <!--Section 3-->
- <h3 align="center"><strong>Fandoms + Interests</strong></h3>
+ <h3 align="center"><strong>𝐅𝐚𝐧𝐝𝐨𝐦𝐬 & 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬</strong></h3>
    <TABLE BORDER>
     <tr>
-      <td><p>I love coding, technology, writing, reading, exploring nature, and music.</p>
-      <p>My favorite music is metal and disco. I also like old pop, electronic, synthwave, ambient, j-pop, and rock.</p>
-      <p>Some games I play are Pony Town (obvs), Blue Archive (only on mobile), and Star Trek online.</p>
-      <p>Main fandoms I'm in are Star Trek, Transformers, Star Wars, Blue Archive, and Hazbin Hotel (nominal, since there's not much canon content)</p></td>
+      <td><p>I love coding, technology, writing, reading, exploring nature, and listening to music.</p>
+      <p>My favorite music is metal and disco. I also like old pop, electronic, synthwave, ambient, j-pop, and rock. A few of my favorite bands are Judas Priest, Blood Incantation, and Vektor. See more on my Spotify :)</p>
+      <p>Some games I play are Pony Town, Blue Archive (rarely), and Star Trek Online.</p>
+      <p>The main fandoms I'm in are Star Trek, Transformers, and Star Wars.</p>
+      </td>
     </tr>
   </TABLE>
 <!--Section 4-->
- <h3 align="center"><strong>Extra/BYI!</strong></h3>
+ <h3 align="center"><strong>𝐄𝐱𝐭𝐫𝐚/𝐁𝐘𝐈</strong></h3>
   <TABLE BORDER>
     <tr>
-      <td><p>I'm anticensorship. (At least when it comes to fiction)</p>
-      <p>I like roleplaying, AUs, fanfiction, fanart, (though I am terrible at drawing), and all the classic fandom-y things</p>
-      <p>I'm a multishipper, pro(fessional)shiper, darkshipper, comshipper, whatever other ridiculous categories antis came up with - I like most ships. As long as the characters have some kind of hypothetical chemistry or canon-interaction, I ship it.</p>
-      <p>I don't like drama that much and I probably won't say anything about it unless I'm directly involved. Gossip just isn't my thing.</p>
-      <p>I have (can have) episodes of severe anxiety and antagonism. I ask that you please be patient and understanding. I also have some mild memory issues.</p>
-      <p>Other than that, I have no DNI list. Basically just love it or leave it. Please check out my StrawPage if you haven't already!</p>
+      <td><p>I'm anticensorship (At least when it comes to fiction). I also seperate art from the artist.</p>
+      <p>I like roleplaying, AUs, fanfiction, fanart, (though I am terrible at drawing), and all the classic fandom-y things.</p>
+      <p>I'm a multishipper, pro(fessional)shiper, darkshipper, comshipper, whatever other ridiculous categories antis came up with. You will usually find me shipping characters have some kind of chemistry or interaction history. I don't usually <em>seriously</em> do crackships, but I'll go along with it as a joke.</p>
+      <p>I am shy and sometimes I may seem stand-offish or rude. I'll have you note that this is never on purpose. I also have (can have) episodes of severe anxiety and antagonism. I ask that you please be patient and understanding with both of these things. I love making new friends and talking to people, my mood/trauma sometimes just makes it extremely difficult!</p>
+      <p>I have no DNI list, feel free to interact, who ever you are.</p>
       </td>
     </tr>
   </TABLE>
@@ -72,7 +77,7 @@
                  <img width="150" height="20"  alt="IRL Hacker" src="https://github.com/user-attachments/assets/1d837f43-99f6-4ec0-93c3-cf5f3d007b31">
                  <img width="150" height="20"  alt="Winter Love" src="https://github.com/user-attachments/assets/97ec6582-16a7-470a-b2fa-5d242bb8a66e">
                  <img width="150" height="20"  alt="Winamp" src="https://github.com/user-attachments/assets/fe37d8d4-a933-47f7-9ab9-c0bd5997453b"></p>
-                 <p align="center"><em>Qapla'!</em><br><em>変われ！</em><br>Peace and long life.<br>May the Force be with you.</p>
+                 <p align="center"><em>Qapla'!</em></p>
 <p align="center"><img width="150" height="20"  alt="You Will Be Assimilated" src="https://github.com/user-attachments/assets/a502b541-d991-4ed0-9b19-06ea9c37e098"></p>
 <!-- copy paste text
 
