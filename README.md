@@ -1,4 +1,4 @@
-<p align="center"><img alt="Under Construction Blinkie" src="https://github.com/user-attachments/assets/c7be18a1-9d8f-42d6-a0a9-74a65e615420"></p>
+<!--<p align="center"><img alt="Under Construction Blinkie" src="https://github.com/user-attachments/assets/c7be18a1-9d8f-42d6-a0a9-74a65e615420"></p>-->
 <!--Section 1-->
   <h3 align="center"><strong>𝐁𝐚𝐬𝐢𝐜 𝐈𝐧𝐟𝐨<br>────────────────────</strong></h3>
 <!--Info 1-->
